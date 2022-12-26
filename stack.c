@@ -16,6 +16,7 @@ int pop(pila* pila){
    }
 
 }
+
 void push(int numero,pila* pila){
  
     pila->top++;
