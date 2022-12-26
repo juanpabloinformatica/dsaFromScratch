@@ -1,3 +1,4 @@
+/*mk si sirveeeee*/
 #include <stdio.h>
 #include <stdlib.h>
 
